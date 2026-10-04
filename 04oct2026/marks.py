@@ -1,5 +1,5 @@
-marks=int(input("enter your marks:"))
-if marks>=40:
+code=int(input("enter your code:"))
+if code>=1000 and co:
     print("pass")
 else:
     print("fail")    

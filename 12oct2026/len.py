@@ -1,1 +1,1 @@
-print()
+print(len((0,20,30)))

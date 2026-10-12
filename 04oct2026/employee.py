@@ -4,3 +4,4 @@ if performance_rating>=4 and working_year>=2:
     print("eligible for bones")
 else:
     print("not eligible for bones")
+    

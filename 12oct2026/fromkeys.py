@@ -1,0 +1,1 @@
+print(dict.fromkeys(['a','b',0]))
